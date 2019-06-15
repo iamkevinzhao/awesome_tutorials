@@ -7,3 +7,6 @@
 # Hidden Markov Models
 - [A friendly introduction to Bayes Theorem and Hidden Markov Models](https://youtu.be/kqSzLo9fenk)
 - [Forward-Backward algorithm for HMMs](https://youtu.be/7zDARfKVm7s)
+
+# Deep Learning
+- [Understanding LeNet](https://yohanes.gultom.me/2016/12/12/understanding-lenet-lecun-1998/)
